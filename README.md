@@ -1,4 +1,4 @@
-# demo de clase 24feb
+# demo de clase 24feb con merge entre ramas y master
 Demostracion de la creacion de un repositorio
 
 Esta es una palabra en **negrita**
